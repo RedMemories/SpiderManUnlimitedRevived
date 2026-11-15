@@ -1,6 +1,8 @@
 # Spider-Man Unlimited Revived
 
-[![Main menu](screenshots/main-menu.png)](screenshots/main-menu.png)
+<p align="center">
+  <a href="screenshots/main-menu.png"><img src="screenshots/main-menu.png" alt="Main menu" width="280"></a>
+</p>
 
 > Spider-Man is a trademark of Marvel. The Spider-Man Unlimited mobile game is by Gameloft. This is a non-commercial fan project, not affiliated with Marvel, Disney or Gameloft. The game and its servers were shut down years ago. This repo is my private archive, please don't share the release files.
 
@@ -17,9 +19,11 @@ Then I rebuilt, on the phone, the parts that used to live on the server:
 - daily challenges and the daily login bonus work again, and they renew every day
 - everything is saved on the phone
 
-[![Title screen](screenshots/title.png)](screenshots/title.png)
-
-[![Running](screenshots/run.png)](screenshots/run.png)
+<p align="center">
+  <a href="screenshots/title.png"><img src="screenshots/title.png" alt="Title screen" width="240"></a>
+  &nbsp;
+  <a href="screenshots/run.png"><img src="screenshots/run.png" alt="Running" width="240"></a>
+</p>
 
 It also runs like a modern app: full screen on today's tall displays, edge to edge, and at 60 fps instead of the original 30.
 
@@ -27,9 +31,11 @@ The game is now fully offline, with no ads and no tracking, and it doesn't need 
 
 The real-money store still opens, but every ISO-8 pack is free: tap it and the crystals are yours. If you'd rather earn them, just play: rewards and prices in the game are the same as before. The first pack also unlocks the VIP portals, as the game always promised, and they cost ISO-8 like before.
 
-[![ISO-8 store](screenshots/store.png)](screenshots/store.png)
-
-[![VIP portals](screenshots/vip-portals.png)](screenshots/vip-portals.png)
+<p align="center">
+  <a href="screenshots/store.png"><img src="screenshots/store.png" alt="ISO-8 store" width="240"></a>
+  &nbsp;
+  <a href="screenshots/vip-portals.png"><img src="screenshots/vip-portals.png" alt="VIP portals" width="240"></a>
+</p>
 
 When I publish a new version, a small notice appears on the main menu, and tapping it opens the release page. That check is the only thing the app does online, and only once a day.
 
