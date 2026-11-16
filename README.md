@@ -64,6 +64,10 @@ Thanks to Doug Lea for dlmalloc, the memory allocator that keeps the engine's me
 
 Original game by Gameloft.
 
+## 🎮 What should I revive next?
+
+Request a game or vote for the next one on **[redmemories.it](https://www.redmemories.it)**: the most voted games are the first ones I look at.
+
 ## ☕ Support my work
 
 If you enjoy my projects and would like to support my work, you can send a tip in **USDC on the Polygon network**. Every project I create is and will always remain free, but any support is greatly appreciated and helps me keep working on new projects and improvements.
